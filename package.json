@@ -2,8 +2,8 @@
   "dependencies": {
     "ws": "^8.18.2"
   },
-  "main": "index.php",   // <-- Vous pouvez ajouter ceci si votre fichier principal est index.js
+  "main": "index.js",   // <-- Vous pouvez ajouter ceci si votre fichier principal est index.js
   "scripts": {
-    "start": "node index.php" // <-- C'est la ligne essentielle à ajouter !
+    "start": "node index.js" // <-- C'est la ligne essentielle à ajouter !
   }
 }
